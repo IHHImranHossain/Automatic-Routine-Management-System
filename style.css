@@ -1,0 +1,17 @@
+/*Start index page */
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.btnn{
+    margin-top: -30px;
+}
+.form-box{
+   background-color: gray;
+   border-radius: 20px;
+   padding: 20px;
+   padding-bottom: 70px;
+   color:black;
+}
+/*End index page */
